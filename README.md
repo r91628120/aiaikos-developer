@@ -1,4 +1,9 @@
-# AIAKOS Developer Center
+AIAKOS Developer Center
+
+The Central Intelligence Repository of
+AI Agricultural Knowledge Operating System (AIAKOS)
+
+Single Source of Truth
 
 AIAKOS Developer Center is the Single Source of Truth for all AIAKOS projects.
 
